@@ -1,4 +1,6 @@
-## GHGRL
+## Learn to Think
+
+Codes for ijcai2025 paper "Learn to Think:Bootstrapping LLM Reasoning Capability Through Graph Learning"
 ## Environment Settings
 
 python3.10
